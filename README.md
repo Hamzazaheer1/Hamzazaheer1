@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Hamza Zaheer
+- 👀 I’m interested in MERN Stack development and DApp Development
 - 🌱 I’m currently Working on DApp FYP...
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me mhamzazaheer1@gmail.com
