@@ -5,13 +5,14 @@ I am a CS undergraduate at Captial University of Science Technology, Pakistan, I
 
 
 
-- 
-I am currently working on something cool. :shipit:  </br>
+
+I am currently working on something cool. :sunglasses:  </br>
 
 ## How to reach me
-📫 To view my portfolio visit Hamza's Portfolio[https://my-portfolio-git-next-portfolio-hamzazaheer1.vercel.app/]
-📫 How to reach me mhamzazaheer1@gmail.com
+📫 To view my portfolio visit [https://my-portfolio-git-next-portfolio-hamzazaheer1.vercel.app/] </br>
+:link: How to reach me mhamzazaheer1@gmail.com
 
+--->
 Hamzazaheer1/Hamzazaheer1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in ...
