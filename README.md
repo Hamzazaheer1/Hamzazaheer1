@@ -1,7 +1,7 @@
 # Hi there, I am Hamza Zaheer 👋
 
 ## About Me:  :alien:
-I am a CS undergraduate at **Captial University of Science Technology, Pakistan, Islamabad**. </br>
+I am a CS graduate at **Captial University of Science Technology, Pakistan, Islamabad**. </br>
 
 I am currently working on something cool. :sunglasses:  </br>
 
