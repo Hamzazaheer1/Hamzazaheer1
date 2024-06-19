@@ -11,6 +11,6 @@ I am a CS graduate at **Captial University of Science Technology, Pakistan, Isla
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 ## How to reach me
-:link: To view my portfolio visit [https://hamza-portfolio-navy.vercel.app/] </br>
+:link: To view my portfolio visit [https://portfolio-v2-wheat-sigma.vercel.app/] </br>
 📫 How to reach me mhamzazaheer1@gmail.com <br/>
 :gem: [https://www.linkedin.com/in/hamzazaheer1/]
