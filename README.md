@@ -1,16 +1,27 @@
-# Hi there, I am Hamza! 👋
-I am a CS graduate at **Captial University of Science Technology, Pakistan, Islamabad**. </br></br>
+# Hi, I'm Hamza Zaheer
 
-<div style="display: flex; justify-content: center;">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Hamzazaheer1&show_icons=true&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzazaheer1&layout=compact"/>
-</div>
+Full Stack & Blockchain Developer building scalable web applications and decentralized apps (DApps).
 
-<img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+## Tech Stack
 
-## How to reach me
-:link: To view my portfolio visit [https://portfolio-v2-wheat-sigma.vercel.app/] </br>
-📫 How to reach me mhamzazaheer1@gmail.com <br/>
-:gem: [https://www.linkedin.com/in/hamzazaheer1/]
+- **Frontend:** React, Next.js, JavaScript, Tailwind CSS  
+- **Backend:** Node.js, Express, MongoDB  
+- **Blockchain:** Solidity, Web3.js, Ethers.js  
+- **Tools:** Git, GitHub, AWS, Digital Ocean 
+
+## What I Do
+
+- Build full stack web applications  
+- Develop smart contracts and DApps  
+- Design scalable backend systems  
+- Work on real-world production-ready projects  
+
+## Featured Work
+
+Check out my pinned repositories below.
+
+## Contact
+
+- Portfolio: https://portfolio-v2-wheat-sigma.vercel.app/  
+- Email: mhamzazaheer1@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/hamzazaheer1/
